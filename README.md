@@ -93,4 +93,4 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
 
-- 特别感谢: [![v2ex](https://v2ex.assets.uxengine.net/site/logo@2x.png)](https://www.v2ex.com/)
+- 特别感谢: [![v2ex](https://p14.zdusercontent.com/attachment/1015988/4g8JvyHgPAYjoGkP32a7B47C9?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..PZRo48N9j5wdsYLB6NvA_A.PYgAsmBb_epX0X5lYoxZym0xf6Q1wtpgg30RlBsUtnJaJZmCCVSIsW9ci_EQT-JL9GKzGqZyr4I2o-sqqsCHOl8BXE8l0kYj9enuvXCAb7VRWHPxgh0pKO58-XkF6t8pegdKcYWnCU_7h97SxyhQ4uVzuNAskHLV9ViRcbHbbtBSzNMzLB2m2KeGm0FB9sXgq3NR3qYfqRkWh7ZzBUuiMh2GM68fW3OjLs9j4l-l-gpx6czbUSyKNjxCwo0kR5CYCiFXwiEcbJ6gLRnyZB2fUwnQd4niqGqNI4Db63_tPeY.97xqu6JxUxhtKBAeWpm-5g)](https://www.v2ex.com/)
